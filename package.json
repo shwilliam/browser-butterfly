@@ -1,0 +1,26 @@
+{
+  "name": "@shwilliam/browser-butterfly",
+  "version": "0.1.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shwilliam/browser-butterfly.git"
+  },
+  "keywords": [
+    "experimental"
+  ],
+  "author": "William L",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shwilliam/browser-butterfly/issues"
+  },
+  "homepage": "https://github.com/shwilliam/browser-butterfly#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.10.1",
+    "@babel/core": "^7.10.1",
+    "@babel/preset-env": "^7.10.1"
+  }
+}
