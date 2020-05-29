@@ -4,6 +4,9 @@
   "description": "",
   "main": "dist/index.js",
   "scripts": {
+    "start": "babel src -d dist --watch",
+    "build": "babel src -d dist",
+    "demo": "npx parcel ./demo.html"
   },
   "repository": {
     "type": "git",
